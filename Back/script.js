@@ -72,12 +72,12 @@ const account2 = {
     '2024-04-22T18:49:59.371Z',
     '2024-04-24T12:01:20.894Z',
   ],
-  currency: 'USD',
-  locale: 'en-US',
+  currency: 'INR',
+  locale: 'en-IN',
 };
 
 const account3 = {
-  owner: 'Mausam Kumar Giri',
+  owner: 'Utkarsh Shandilya',
   movements: [1000, 3400, -150, -790, 3210, -1000, 100, -30],
   interestRate: 1.5,
   pin: 3333,
